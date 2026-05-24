@@ -1,0 +1,21 @@
+[
+  {
+    "id": "v84_1",
+    "index": 1,
+    "group": "84",
+    "name": "Damodardas Harsani",
+    "bio": "",
+    "prasangs": [
+      {
+        "id": "p1",
+        "title": "Prasang 1: Meeting Mahaprabhuji",
+        "file": "84/v84_1_p1.json"
+      },
+      {
+        "id": "p2",
+        "title": "Prasang 2: Meeting Mahaprabhuji",
+        "file": "84/v84_1_p2.json"
+      }
+    ]
+  }
+]

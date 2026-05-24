@@ -1,0 +1,21 @@
+[
+  {
+    "id": "v252_1",
+    "index": 1,
+    "group": "252",
+    "name": "Govindswami",
+    "bio": "Gusaiji's musically gifted devotee",
+    "prasangs": [
+      {
+        "id": "p1",
+        "title": "Govindswami's Divine Initiation",
+        "file": "252/v252_1_p1.json"
+      },
+      {
+        "id": "p2",
+        "title": "Thakurji Sings Kirtan",
+        "file": "252/v252_1_p2.json"
+      }
+    ]
+  }
+]
