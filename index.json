@@ -3,49 +3,49 @@
     "id": "1",
     "title": "Shrinathji Aarti",
     "artist": "Chorus",
-    "category": "Mangala",
+    "category": "Aartis",
     "file": "mangla_aarti.json"
   },
   {
     "id": "2",
     "title": "Yamunajini Stuti",
     "artist": "Dr. Dipali Bhatt, Foram Maheta",
-    "category": "Stuti",
+    "category": "Kirtan",
     "file": "yamunajini_stuti.json"
   },
   {
     "id": "3",
     "title": "Yamunashtak",
     "artist": "Chorus",
-    "category": "Path",
+    "category": "Kirtan",
     "file": "yamunastak.json"
   },
   {
     "id": "4",
     "title": "Krushnashray",
     "artist": "Aartis Name",
-    "category": "Stotra",
+    "category": "Kirtan",
     "file": "krushnashray.json"
   },
   {
     "id": "5",
     "title": "Vaake Ambode Shrinathji",
     "artist": "Chorus",
-    "category": "Bhajan",
+    "category": "Kirtan",
     "file": "vaake_ambode_shrinathji.json"
   },
   {
     "id": "7",
     "title": "Jai Jai Shri Yamuna ma",
     "artist": "Aartist Name",
-    "category": "Sandhya",
+    "category": "Aartis",
     "file": "jai_jai_shri_yamuna.json"
   },
   {
     "id": "8",
     "title": "Giriraj Dharyastakam",
     "artist": "Aartist Name",
-    "category": "Sandhya",
+    "category": "Kirtan",
     "file": "giriraj_dharyastakam.json"
   }
 ]
